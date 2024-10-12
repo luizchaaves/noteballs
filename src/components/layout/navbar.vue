@@ -39,14 +39,14 @@
                         class="navbar-item"
                         active-class="is-active"
                     >
-                        Notes
+                        Notas
                     </RouterLink>
                     <RouterLink
                         to="/stats"
                         class="navbar-item"
                         active-class="is-active"
                     >
-                        Stats
+                        Estatísticas
                     </RouterLink>
                 </div>
             </div>
